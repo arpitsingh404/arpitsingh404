@@ -2,10 +2,6 @@
 
 <img src="./assets/banner.svg" alt="Arpit Singh - Security researcher and local-first AI builder" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=760&lines=Security+researcher+%26+builder;Local-first+AI+and+desktop+automation;Android+%2B+Windows+tools;Authorized+testing+only" alt="Typing SVG" />
-</a>
-
 <p>
   <a href="https://insafelabs.in"><img src="https://img.shields.io/badge/Website-insafelabs.in-6C4EF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/arpitsingh404"><img src="https://img.shields.io/badge/GitHub-arpitsingh404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -141,19 +137,16 @@ Seven live WPF widgets for Windows 11: clock, system, battery, weather, network,
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## GitHub
+## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitsingh404&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=9B7BFF&icon_color=FF2D87" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsingh404&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=9B7BFF" alt="Top languages" />
+  <a href="https://github.com/arpitsingh404"><img src="https://img.shields.io/github/followers/arpitsingh404?style=for-the-badge&logo=github&label=Followers&color=6C4EF6" alt="Followers" /></a>
+  <a href="https://github.com/arpitsingh404?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Farpitsingh404&query=%24.public_repos&label=Repositories&color=FF2D87&style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/arpitsingh404?tab=overview"><img src="https://img.shields.io/badge/Activity-View%20profile-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub activity" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arpitsingh404&hide_border=true&theme=tokyonight&background=0D1117&ring=9B7BFF&fire=FF2D87&currStreakLabel=9B7BFF" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitsingh404&bg_color=0D1117&color=9B7BFF&line=FF2D87&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="98%" />
+  <a href="https://github.com/arpitsingh404"><img src="https://streak-stats.demolab.com/?user=arpitsingh404&hide_border=true&theme=tokyonight&background=0D1117&ring=9B7BFF&fire=FF2D87&currStreakLabel=9B7BFF&cache_seconds=86400" alt="GitHub streak" /></a>
 </p>
 
 ## Let's connect
