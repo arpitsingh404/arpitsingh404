@@ -58,7 +58,7 @@ Encrypted Android app for student documents, reminders and job applications. No 
 
 `Android` `JavaScript` `AES-256-GCM` `IndexedDB`
 
-[Repository](https://github.com/arpitsingh404/student-vault) · [Release](https://github.com/arpitsingh404/student-vault/releases)
+[Repository](https://github.com/arpitsingh404/student-vault) · [Release](https://github.com/arpitsingh404/student-vault/releases) · [![Latest release](https://img.shields.io/github/v/release/arpitsingh404/student-vault)](https://github.com/arpitsingh404/student-vault/releases)
 
 </td>
 <td width="50%" valign="top">
@@ -118,6 +118,8 @@ Seven live WPF widgets for Windows 11: clock, system, battery, weather, network,
 </tr>
 </table>
 
+**Also open source:** [proxyvpn](https://github.com/arpitsingh404/proxyvpn) — Chrome MV3 proxy-profile switcher (HTTP/HTTPS/SOCKS4/5, auth, bypass lists) · [ai-coding-agent](https://github.com/arpitsingh404/ai-coding-agent) — multi-file agentic coding assistant for VS Code
+
 ## Tech stack
 
 <p>
@@ -147,6 +149,13 @@ Seven live WPF widgets for Windows 11: clock, system, battery, weather, network,
 
 <p align="center">
   <a href="https://github.com/arpitsingh404"><img src="https://streak-stats.demolab.com/?user=arpitsingh404&hide_border=true&theme=tokyonight&background=0D1117&ring=9B7BFF&fire=FF2D87&currStreakLabel=9B7BFF&cache_seconds=86400" alt="GitHub streak" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitsingh404/arpitsingh404/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/arpitsingh404/arpitsingh404/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="98%" />
+  </picture>
 </p>
 
 ## Let's connect
